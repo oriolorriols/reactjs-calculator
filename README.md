@@ -1,20 +1,3 @@
-npm install -g vite
-npm create vite .
-
-cd calculadora-react-oriolorriols
-
-npm install 
-
---      
-
-cd calculadora-react-oriolorriols
-
-npm run dev
-
-
-
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
